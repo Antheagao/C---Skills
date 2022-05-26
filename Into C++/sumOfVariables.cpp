@@ -12,9 +12,8 @@ int main()
     x = 50;
     y = 100;
     
-    // calculate total
+    // calculate total and print it 
     total = x + y;
-
     cout << "The sum of " << x << " and " << y << " is: " << total << endl;
 
     return 0;
